@@ -1,3 +1,3 @@
 function c --wraps clear --description 'alias clear'
-  clear $argv
+    clear $argv
 end
